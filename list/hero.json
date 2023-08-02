@@ -1,0 +1,694 @@
+{
+  "MyNameIs_Aneh": {
+    "Assassin-NareJlFzwX7rwSzzDpu": {
+      "hero": "Aoi",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/da/53600.jpg/revision/latest/scale-to-width-down/75?cb=20230622114156",
+      "key": "Assassin-NareJlFzwX7rwSzzDpu",
+      "type": "Assassin"
+    },
+    "Assassin-NareiwsDfk1mHLIGgGS": {
+      "hero": "Batman",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/Batman.png/revision/latest/scale-to-width-down/75?cb=20171107065639",
+      "key": "Assassin-NareiwsDfk1mHLIGgGS",
+      "type": "Assassin"
+    },
+    "Assassin-Narel_PO1q8eviKTynh": {
+      "hero": "Bright",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/85/Bright.jpg/revision/latest/scale-to-width-down/75?cb=20210723192017",
+      "key": "Assassin-Narel_PO1q8eviKTynh",
+      "type": "Assassin"
+    },
+    "Assassin-NarenhqxULiwCsXdvzB": {
+      "hero": "Butterfly",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/77/Butterfly.jpg/revision/latest/scale-to-width-down/75?cb=20200603192427",
+      "key": "Assassin-NarenhqxULiwCsXdvzB",
+      "type": "Assassin"
+    },
+    "Assassin-Nareq-_Ovol7124Iff1": {
+      "hero": "Enzo",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Enzo.jpg/revision/latest/scale-to-width-down/75?cb=20200603192925",
+      "key": "Assassin-Nareq-_Ovol7124Iff1",
+      "type": "Assassin"
+    },
+    "Assassin-NaresAa0V13SLmr9R_D": {
+      "hero": "Flash",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/24/Flash.jpg/revision/latest/scale-to-width-down/75?cb=20200603121604",
+      "key": "Assassin-NaresAa0V13SLmr9R_D",
+      "type": "Assassin"
+    },
+    "Assassin-Nareu44Y8k3VR4hxb-C": {
+      "hero": "Keera",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/69/Keera.jpg/revision/latest/scale-to-width-down/75?cb=20200603193341",
+      "key": "Assassin-Nareu44Y8k3VR4hxb-C",
+      "type": "Assassin"
+    },
+    "Assassin-Narey-vSbAYied_9XgV": {
+      "hero": "Kriknak",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/15/Kriknak.png/revision/latest/scale-to-width-down/75?cb=20171204210249",
+      "key": "Assassin-Narey-vSbAYied_9XgV",
+      "type": "Assassin"
+    },
+    "Assassin-Narf-Ds3uu0kYrsE6zv": {
+      "hero": "Murad",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1d/Murad.png/revision/latest/scale-to-width-down/75?cb=20171204210254",
+      "key": "Assassin-Narf-Ds3uu0kYrsE6zv",
+      "type": "Assassin"
+    },
+    "Assassin-Narf0tsWyv8HTSUz31j": {
+      "hero": "Paine",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c8/Paine.jpg/revision/latest/scale-to-width-down/75?cb=20200603192453",
+      "key": "Assassin-Narf0tsWyv8HTSUz31j",
+      "type": "Assassin"
+    },
+    "Assassin-Narf7BNfO32Naj17Dpe": {
+      "hero": "Quillen",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/74/Quillen.jpg/revision/latest/scale-to-width-down/75?cb=20200603193440",
+      "key": "Assassin-Narf7BNfO32Naj17Dpe",
+      "type": "Assassin"
+    },
+    "Assassin-NarfBKcqhXQlIfpeDah": {
+      "hero": "Nakroth",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/99/Nakroth.jpg/revision/latest/scale-to-width-down/75?cb=20201224121340",
+      "key": "Assassin-NarfBKcqhXQlIfpeDah",
+      "type": "Assassin"
+    },
+    "Assassin-NarfJTg0tbrezVRyDzj": {
+      "hero": "Sinestria",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d0/Sinestrea.jpg/revision/latest/scale-to-width-down/75?cb=20210209152218",
+      "key": "Assassin-NarfJTg0tbrezVRyDzj",
+      "type": "Assassin"
+    },
+    "Assassin-NarfLyvy8Us4-u4BQxw": {
+      "hero": "Wukong",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/39/16700.jpg/revision/latest/scale-to-width-down/75?cb=20230622120359",
+      "key": "Assassin-NarfLyvy8Us4-u4BQxw",
+      "type": "Assassin"
+    },
+    "Assassin-NarfNbFR8i4xXcCKxKg": {
+      "hero": "Zill",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d3/Zill.png/revision/latest/scale-to-width-down/75?cb=20180314050400",
+      "key": "Assassin-NarfNbFR8i4xXcCKxKg",
+      "type": "Assassin"
+    },
+    "Former-NarjWvsK4N4S5Q2IHPV": {
+      "hero": "Peura",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Peura.png/revision/latest/scale-to-width-down/75?cb=20180314050459",
+      "key": "Former-NarjWvsK4N4S5Q2IHPV",
+      "type": "Former"
+    },
+    "Mage-NarfSVlbi1Xr_iR96rl": {
+      "hero": "Aleister",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d9/15600.jpg/revision/latest/scale-to-width-down/75?cb=20230622051915",
+      "key": "Mage-NarfSVlbi1Xr_iR96rl",
+      "type": "Mage"
+    },
+    "Mage-NarfUprMaVNaQSLbYuA": {
+      "hero": "Azzen'Ka",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/bf/Azzen%27ka.jpg/revision/latest/scale-to-width-down/75?cb=20201219183314",
+      "key": "Mage-NarfUprMaVNaQSLbYuA",
+      "type": "Mage"
+    },
+    "Mage-NarfWfIMZ7karf-XmEA": {
+      "hero": "Bonnie",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9e/54100.jpg/revision/latest/scale-to-width-down/75?cb=20230622124533",
+      "key": "Mage-NarfWfIMZ7karf-XmEA",
+      "type": "Mage"
+    },
+    "Mage-NarfZ9AES23QVqvlsgp": {
+      "hero": "D'Arcy",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2e/D%27Arcy.jpg/revision/latest/scale-to-width-down/75?cb=20200603192837",
+      "key": "Mage-NarfZ9AES23QVqvlsgp",
+      "type": "Mage"
+    },
+    "Mage-Narfacz1J9L3muV4u3v": {
+      "hero": "Diaochan",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c0/Diaochan.jpeg/revision/latest/scale-to-width-down/75?cb=20210318175905",
+      "key": "Mage-Narfacz1J9L3muV4u3v",
+      "type": "Mage"
+    },
+    "Mage-NarfcHo6S7ZKqIShmfh": {
+      "hero": "Dirak",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/37/Dirak.jpg/revision/latest/scale-to-width-down/75?cb=20200603192852",
+      "key": "Mage-NarfcHo6S7ZKqIShmfh",
+      "type": "Mage"
+    },
+    "Mage-NarfdyyTONSQAilKjf2": {
+      "hero": "Iggy",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/33/Iggy.jpg/revision/latest/scale-to-width-down/75?cb=20210919050532",
+      "key": "Mage-NarfdyyTONSQAilKjf2",
+      "type": "Mage"
+    },
+    "Mage-NarffvaTXnytdSjwn-t": {
+      "hero": "Ignis",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/bf/Ignis.png/revision/latest/scale-to-width-down/75?cb=20171204210334",
+      "key": "Mage-NarffvaTXnytdSjwn-t",
+      "type": "Mage"
+    },
+    "Mage-NarflBAJRn67GRrX0J3": {
+      "hero": "Ilumia",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ed/Ilumia.png/revision/latest/scale-to-width-down/75?cb=20171106210747",
+      "key": "Mage-NarflBAJRn67GRrX0J3",
+      "type": "Mage"
+    },
+    "Mage-NarfnF4qlxp_pemZZTu": {
+      "hero": "Ishar",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Ishar.jpg/revision/latest/scale-to-width-down/75?cb=20200603193008",
+      "key": "Mage-NarfnF4qlxp_pemZZTu",
+      "type": "Mage"
+    },
+    "Mage-NarfpZAu0l6kgKjWyTg": {
+      "hero": "Jinnar",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/99/Jinnar.jpg/revision/latest/scale-to-width-down/75?cb=20200603193320",
+      "key": "Mage-NarfpZAu0l6kgKjWyTg",
+      "type": "Mage"
+    },
+    "Mage-NarfsIQ43XBIErLSTRj": {
+      "hero": "Kahlii",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/26/Kahlii.png/revision/latest/scale-to-width-down/75?cb=20171106210819",
+      "key": "Mage-NarfsIQ43XBIErLSTRj",
+      "type": "Mage"
+    },
+    "Mage-Narfu05v3KnYbYmPrz0": {
+      "hero": "Zata",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e0/Zata.jpg/revision/latest/scale-to-width-down/75?cb=20200617141420",
+      "key": "Mage-Narfu05v3KnYbYmPrz0",
+      "type": "Mage"
+    },
+    "Mage-Narfx7wiHyN_kIkf-jG": {
+      "hero": "Krixi",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/4a/Krixi.png/revision/latest/scale-to-width-down/75?cb=20180314102522",
+      "key": "Mage-Narfx7wiHyN_kIkf-jG",
+      "type": "Mage"
+    },
+    "Mage-NarfzEt9y54DayLGLo3": {
+      "hero": "Lauriel",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/63/Lauriel.png/revision/latest/scale-to-width-down/75?cb=20171107073247",
+      "key": "Mage-NarfzEt9y54DayLGLo3",
+      "type": "Mage"
+    },
+    "Mage-Narg0cGyuEF6AAGVj7V": {
+      "hero": "Liliana",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/df/Liliana.png/revision/latest/scale-to-width-down/75?cb=20180331134950",
+      "key": "Mage-Narg0cGyuEF6AAGVj7V",
+      "type": "Mage"
+    },
+    "Mage-Narg2l8rCWZKWY39CyL": {
+      "hero": "Lorion",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d5/Lorion.jpg/revision/latest/scale-to-width-down/75?cb=20201219153303",
+      "key": "Mage-Narg2l8rCWZKWY39CyL",
+      "type": "Mage"
+    },
+    "Mage-Narg4V-o7uQGdV-4sb-": {
+      "hero": "Marja",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/6b/Marja.jpg/revision/latest/scale-to-width-down/75?cb=20200603160737",
+      "key": "Mage-Narg4V-o7uQGdV-4sb-",
+      "type": "Mage"
+    },
+    "Mage-Narg7ZcPb_v9t8y2-2n": {
+      "hero": "Mganga",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/39/11900.jpg/revision/latest/scale-to-width-down/75?cb=20230622052045",
+      "key": "Mage-Narg7ZcPb_v9t8y2-2n",
+      "type": "Mage"
+    },
+    "Mage-Narg9P57BDOEpJcoMNX": {
+      "hero": "Natalya",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Natalya.png/revision/latest/scale-to-width-down/75?cb=20210109153000",
+      "key": "Mage-Narg9P57BDOEpJcoMNX",
+      "type": "Mage"
+    },
+    "Mage-NargB5SGg3H_RxxBw6I": {
+      "hero": "Preyta",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/44/Preyta.png/revision/latest/scale-to-width-down/75?cb=20171106211203",
+      "key": "Mage-NargB5SGg3H_RxxBw6I",
+      "type": "Mage"
+    },
+    "Mage-NargCefKzg0uWolm2yq": {
+      "hero": "Raz",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/6a/Raz.png/revision/latest/scale-to-width-down/75?cb=20171106211219",
+      "key": "Mage-NargCefKzg0uWolm2yq",
+      "type": "Mage"
+    },
+    "Mage-NargEaU45MeWVCe_MjY": {
+      "hero": "Sephera",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/37/Sephera.jpg/revision/latest/scale-to-width-down/75?cb=20200603192646",
+      "key": "Mage-NargEaU45MeWVCe_MjY",
+      "type": "Mage"
+    },
+    "Mage-NargGG0iYNFUReeDN8N": {
+      "hero": "Tulen",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/ab/19000-new.jpg/revision/latest/scale-to-width-down/75?cb=20230622065623",
+      "key": "Mage-NargGG0iYNFUReeDN8N",
+      "type": "Mage"
+    },
+    "Mage-NargINfjDPYKMowNvME": {
+      "hero": "Veera",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/4b/10900.jpg/revision/latest/scale-to-width-down/75?cb=20230622052157",
+      "key": "Mage-NargINfjDPYKMowNvME",
+      "type": "Mage"
+    },
+    "Mage-NargJq3htJ1W4-D1JbY": {
+      "hero": "Yue",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/34/Yue.jpeg/revision/latest/scale-to-width-down/75?cb=20220116192541",
+      "key": "Mage-NargJq3htJ1W4-D1JbY",
+      "type": "Mage"
+    },
+    "Marksman-NargNNSoOVQuMXwmEfo": {
+      "hero": "Brunhilda",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/4b/Brunhilda.jpg/revision/latest/scale-to-width-down/75?cb=20200603192817",
+      "key": "Marksman-NargNNSoOVQuMXwmEfo",
+      "type": "Marksman"
+    },
+    "Marksman-NargRJbaJinhlcr3KvZ": {
+      "hero": "Capheny",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d8/Capheny.jpg/revision/latest/scale-to-width-down/75?cb=20200603192827",
+      "key": "Marksman-NargRJbaJinhlcr3KvZ",
+      "type": "Marksman"
+    },
+    "Marksman-NargUw10piGBP46IKdE": {
+      "hero": "Eland'orr",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Eland%27orr.jpg/revision/latest/scale-to-width-down/75?cb=20200603192906",
+      "key": "Marksman-NargUw10piGBP46IKdE",
+      "type": "Marksman"
+    },
+    "Marksman-NargaL6LxaAOvjQ58Lo": {
+      "hero": "Elsu",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c5/Elsu.jpg/revision/latest/scale-to-width-down/75?cb=20200603154844",
+      "key": "Marksman-NargaL6LxaAOvjQ58Lo",
+      "type": "Marksman"
+    },
+    "Marksman-NargcaveMeJXguesIf-": {
+      "hero": "Fennik",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/6f/Fennik.png/revision/latest/scale-to-width-down/75?cb=20180108082632",
+      "key": "Marksman-NargcaveMeJXguesIf-",
+      "type": "Marksman"
+    },
+    "Marksman-NargeEuaxzLSYNLonHD": {
+      "hero": "Hayate",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3e/Hayate.jpg/revision/latest/scale-to-width-down/75?cb=20210919072424",
+      "key": "Marksman-NargeEuaxzLSYNLonHD",
+      "type": "Marksman"
+    },
+    "Marksman-NarghOOFjrku29ym4i3": {
+      "hero": "Laville",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ed/Laville.jpg/revision/latest/scale-to-width-down/75?cb=20200603193407",
+      "key": "Marksman-NarghOOFjrku29ym4i3",
+      "type": "Marksman"
+    },
+    "Marksman-NargjUMMrIQYaJmAkxx": {
+      "hero": "Lindis",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/fa/Lindis.png/revision/latest/scale-to-width-down/75?cb=20180313165418",
+      "key": "Marksman-NargjUMMrIQYaJmAkxx",
+      "type": "Marksman"
+    },
+    "Marksman-Nargl7dpHYt6yZh8tip": {
+      "hero": "Moren",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d6/Moren.png/revision/latest/scale-to-width-down/75?cb=20171204210251",
+      "key": "Marksman-Nargl7dpHYt6yZh8tip",
+      "type": "Marksman"
+    },
+    "Marksman-NargnWgxh0Ae7Ya32nR": {
+      "hero": "Slimz",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5a/Slimz.png/revision/latest/scale-to-width-down/75?cb=20180314050432",
+      "key": "Marksman-NargnWgxh0Ae7Ya32nR",
+      "type": "Marksman"
+    },
+    "Marksman-NargqcGc4Dyi0QaE79f": {
+      "hero": "Tel'Annas",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f4/50100.jpg/revision/latest/scale-to-width-down/75?cb=20230622122415",
+      "key": "Marksman-NargqcGc4Dyi0QaE79f",
+      "type": "Marksman"
+    },
+    "Marksman-NargsgRxybBzTa7AUFB": {
+      "hero": "Teeri",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/70/54600.jpg/revision/latest/scale-to-width-down/75?cb=20230622125107",
+      "key": "Marksman-NargsgRxybBzTa7AUFB",
+      "type": "Marksman"
+    },
+    "Marksman-NarguxSnGSV17NpvldU": {
+      "hero": "The Joker",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/85/The_Joker.png/revision/latest/scale-to-width-down/75?cb=20171107065627",
+      "key": "Marksman-NarguxSnGSV17NpvldU",
+      "type": "Marksman"
+    },
+    "Marksman-NargwXKYOgAs9maOe7N": {
+      "hero": "Thorne",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/24/Thorne.png/revision/latest/scale-to-width-down/75?cb=20200927141241",
+      "key": "Marksman-NargwXKYOgAs9maOe7N",
+      "type": "Marksman"
+    },
+    "Marksman-Nargy8kKHtFAK9bkVXh": {
+      "hero": "Valhein",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Valhein.png/revision/latest/scale-to-width-down/75?cb=20171106211405",
+      "key": "Marksman-Nargy8kKHtFAK9bkVXh",
+      "type": "Marksman"
+    },
+    "Marksman-Narh-GV8Z3s7phqmXqf": {
+      "hero": "Violet",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/59/Violet.jpg/revision/latest/scale-to-width-down/75?cb=20210108094848",
+      "key": "Marksman-Narh-GV8Z3s7phqmXqf",
+      "type": "Marksman"
+    },
+    "Marksman-Narh29Q3O6fGEOt3AeC": {
+      "hero": "Wisp",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Wisp.png/revision/latest/scale-to-width-down/75?cb=20180419064220",
+      "key": "Marksman-Narh29Q3O6fGEOt3AeC",
+      "type": "Marksman"
+    },
+    "Marksman-Narh3wljCvRvJKCvO_3": {
+      "hero": "Yorn",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1b/Yorn.jpg/revision/latest/scale-to-width-down/75?cb=20200603194420",
+      "key": "Marksman-Narh3wljCvRvJKCvO_3",
+      "type": "Marksman"
+    },
+    "Support-NarhA_K6limkv4_nkPq": {
+      "hero": "Alice",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/82/Alice.png/revision/latest/scale-to-width-down/75?cb=20171106210502",
+      "key": "Support-NarhA_K6limkv4_nkPq",
+      "type": "Support"
+    },
+    "Support-NarhCqAgJ7zh2OatJ9e": {
+      "hero": "Annette",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/1a/Annette.jpg/revision/latest/scale-to-width-down/75?cb=20200603192709",
+      "key": "Support-NarhCqAgJ7zh2OatJ9e",
+      "type": "Support"
+    },
+    "Support-NarhEcwhga3ngOSqXB9": {
+      "hero": "Aya",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0e/Aya.jpg/revision/latest/scale-to-width-down/75?cb=20220104212015",
+      "key": "Support-NarhEcwhga3ngOSqXB9",
+      "type": "Support"
+    },
+    "Support-NarhGYvAL6jxU67etDb": {
+      "hero": "Chaugar",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/db/Chaugnar.png/revision/latest/scale-to-width-down/75?cb=20171106210601",
+      "key": "Support-NarhGYvAL6jxU67etDb",
+      "type": "Support"
+    },
+    "Support-NarhJn7lNoOh-cSDqYz": {
+      "hero": "Cresht",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/45/Cresht.jpg/revision/latest/scale-to-width-down/75?cb=20200603194911",
+      "key": "Support-NarhJn7lNoOh-cSDqYz",
+      "type": "Support"
+    },
+    "Support-NarhLk8p3SirP-gPOw1": {
+      "hero": "Gildur",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/43/Gildur.png/revision/latest/scale-to-width-down/75?cb=20171106210705",
+      "key": "Support-NarhLk8p3SirP-gPOw1",
+      "type": "Support"
+    },
+    "Support-NarhOOaR6Nia_JWpU0i": {
+      "hero": "Helen",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c1/Helen.jpg/revision/latest/scale-to-width-down/75?cb=20220913015247",
+      "key": "Support-NarhOOaR6Nia_JWpU0i",
+      "type": "Support"
+    },
+    "Support-NarhS1vf6kURi1zajRM": {
+      "hero": "Krizzix",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0b/Krizzix.jpg/revision/latest/scale-to-width-down/75?cb=20200603193357",
+      "key": "Support-NarhS1vf6kURi1zajRM",
+      "type": "Support"
+    },
+    "Support-NarhU7BVs6qVpYMhldU": {
+      "hero": "Lumburr",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3b/Lumburr.png/revision/latest/scale-to-width-down/75?cb=20171204210150",
+      "key": "Support-NarhU7BVs6qVpYMhldU",
+      "type": "Support"
+    },
+    "Support-NarhW4A9b4ia7T0-IFc": {
+      "hero": "Rouie",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/95/Rouie.jpg/revision/latest/scale-to-width-down/75?cb=20200603190413",
+      "key": "Support-NarhW4A9b4ia7T0-IFc",
+      "type": "Support"
+    },
+    "Support-NarhYSny4PjWcebVAVZ": {
+      "hero": "TeeMee",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c7/TeeMee.png/revision/latest/scale-to-width-down/75?cb=20180313164218",
+      "key": "Support-NarhYSny4PjWcebVAVZ",
+      "type": "Support"
+    },
+    "Support-Narh_haI-FPT6FEj5b0": {
+      "hero": "Zip",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Zip.jpg/revision/latest/scale-to-width-down/75?cb=20200603111235",
+      "key": "Support-Narh_haI-FPT6FEj5b0",
+      "type": "Support"
+    },
+    "Tank-Narhfk5g5TNDfVw4ZG1": {
+      "hero": "Arum",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e7/Arum.jpg/revision/latest/scale-to-width-down/75?cb=20200603192739",
+      "key": "Tank-Narhfk5g5TNDfVw4ZG1",
+      "type": "Tank"
+    },
+    "Tank-NarhhGJIwRZXmnBGrhk": {
+      "hero": "Ata",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/73/Ata.jpg/revision/latest/scale-to-width-down/75?cb=20200603192758",
+      "key": "Tank-NarhhGJIwRZXmnBGrhk",
+      "type": "Tank"
+    },
+    "Tank-NarhjFqha2QS9HnVyWE": {
+      "hero": "Baldum",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/6b/Baldum.jpg/revision/latest/scale-to-width-down/75?cb=20200603161252",
+      "key": "Tank-NarhjFqha2QS9HnVyWE",
+      "type": "Tank"
+    },
+    "Tank-Narhl5RoU91T8ntxvFv": {
+      "hero": "Grakk",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e1/Grakk.png/revision/latest/scale-to-width-down/75?cb=20171106210721",
+      "key": "Tank-Narhl5RoU91T8ntxvFv",
+      "type": "Tank"
+    },
+    "Tank-Narhmd30lt9VGdknL0p": {
+      "hero": "Max",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/32/Max.png/revision/latest/scale-to-width-down/75?cb=20180313170524",
+      "key": "Tank-Narhmd30lt9VGdknL0p",
+      "type": "Tank"
+    },
+    "Tank-NarhoF9lHlscmwAG4Rf": {
+      "hero": "Mina",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/6b/Mina.png/revision/latest/scale-to-width-down/75?cb=20180314050256",
+      "key": "Tank-NarhoF9lHlscmwAG4Rf",
+      "type": "Tank"
+    },
+    "Tank-Narhq3VH_5hkwA0ryPw": {
+      "hero": "Omega",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/23/Omega.jpg/revision/latest/scale-to-width-down/75?cb=20201219182954",
+      "key": "Tank-Narhq3VH_5hkwA0ryPw",
+      "type": "Tank"
+    },
+    "Tank-NarhreeTtPr3HzPWQep": {
+      "hero": "Taara",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/4/46/14400.jpg/revision/latest/scale-to-width-down/75?cb=20230622051110",
+      "key": "Tank-NarhreeTtPr3HzPWQep",
+      "type": "Tank"
+    },
+    "Tank-Narhtk6S9aD2nbptU09": {
+      "hero": "Ormarr",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/cc/Ormarr.png/revision/latest/scale-to-width-down/75?cb=20171106211132",
+      "key": "Tank-Narhtk6S9aD2nbptU09",
+      "type": "Tank"
+    },
+    "Tank-NarhvukrlEVTw2onF-c": {
+      "hero": "Roxie",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/85/Roxie.jpg/revision/latest/scale-to-width-down/75?cb=20221110121851",
+      "key": "Tank-NarhvukrlEVTw2onF-c",
+      "type": "Tank"
+    },
+    "Tank-Narhxd1L5EEfU69P4p2": {
+      "hero": "Thane",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d0/Thane.png/revision/latest/scale-to-width-down/75?cb=20171106211333",
+      "key": "Tank-Narhxd1L5EEfU69P4p2",
+      "type": "Tank"
+    },
+    "Tank-NarhzCawQAkn55ByM1B": {
+      "hero": "Toro",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/94/Toro.png/revision/latest/scale-to-width-down/75?cb=20171106211349",
+      "key": "Tank-NarhzCawQAkn55ByM1B",
+      "type": "Tank"
+    },
+    "Tank-Nari0BUlvwjoU54-DGe": {
+      "hero": "Xeniel",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/e9/Xeniel.png/revision/latest/scale-to-width-down/75?cb=20180314053104",
+      "key": "Tank-Nari0BUlvwjoU54-DGe",
+      "type": "Tank"
+    },
+    "Tank-Nari2dtWX4vCCOkLGKp": {
+      "hero": "Y'bneth",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d8/Y%27bneth.jpg/revision/latest/scale-to-width-down/75?cb=20200603192402",
+      "key": "Tank-Nari2dtWX4vCCOkLGKp",
+      "type": "Tank"
+    },
+    "Warrior-Nari5IQTmrZReEbSTh6": {
+      "hero": "Airi",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/60/Airi.jpg/revision/latest/scale-to-width-down/75?cb=20210919060450",
+      "key": "Warrior-Nari5IQTmrZReEbSTh6",
+      "type": "Warrior"
+    },
+    "Warrior-Nari7ZDKCQu0kPTQIfO": {
+      "hero": "Allain",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/39/Allain.png/revision/latest/scale-to-width-down/75?cb=20200927141217",
+      "key": "Warrior-Nari7ZDKCQu0kPTQIfO",
+      "type": "Warrior"
+    },
+    "Warrior-Nari9MKlsmg4x2ECLKb": {
+      "hero": "Amily",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/e/ed/Amily.jpg/revision/latest/scale-to-width-down/75?cb=20200603192617",
+      "key": "Warrior-Nari9MKlsmg4x2ECLKb",
+      "type": "Warrior"
+    },
+    "Warrior-NariBRbZqPnA4bkt0Ix": {
+      "hero": "Arduin",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/79/Arduin.png/revision/latest/scale-to-width-down/75?cb=20171215113227",
+      "key": "Warrior-NariBRbZqPnA4bkt0Ix",
+      "type": "Warrior"
+    },
+    "Warrior-NariD3aRQjL6R20H_Mk": {
+      "hero": "Arthur",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/50/Arthur.png/revision/latest/scale-to-width-down/75?cb=20180314050222",
+      "key": "Warrior-NariD3aRQjL6R20H_Mk",
+      "type": "Warrior"
+    },
+    "Warrior-NariEtI0vPOwrtbMpai": {
+      "hero": "Astrid",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0a/Astrid.png/revision/latest/scale-to-width-down/75?cb=20171107070544",
+      "key": "Warrior-NariEtI0vPOwrtbMpai",
+      "type": "Warrior"
+    },
+    "Warrior-NariGgd2XTYVHNZyObD": {
+      "hero": "Dextra",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f7/Dextra.jpg/revision/latest/scale-to-width-down/75?cb=20201219153248",
+      "key": "Warrior-NariGgd2XTYVHNZyObD",
+      "type": "Warrior"
+    },
+    "Warrior-NariJS9e9STrB0Z6RcH": {
+      "hero": "Errol",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/37/Errol.jpg/revision/latest/scale-to-width-down/75?cb=20200603192936",
+      "key": "Warrior-NariJS9e9STrB0Z6RcH",
+      "type": "Warrior"
+    },
+    "Warrior-NariLxF2YHGM2Nt2ETY": {
+      "hero": "Florentino",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f4/Florentino.jpg/revision/latest/scale-to-width-down/75?cb=20200603192949",
+      "key": "Warrior-NariLxF2YHGM2Nt2ETY",
+      "type": "Warrior"
+    },
+    "Warrior-NariOhWkVWCsBc0mXk0": {
+      "hero": "Kil'Groth",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/a4/KilGroth.png/revision/latest/scale-to-width-down/75?cb=20180313170118",
+      "key": "Warrior-NariOhWkVWCsBc0mXk0",
+      "type": "Warrior"
+    },
+    "Warrior-NariRyTHe_NVPKVB-1q": {
+      "hero": "Lu Bu",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/8/8e/Lu_Bu.jpg/revision/latest/scale-to-width-down/75?cb=20200603193418",
+      "key": "Warrior-NariRyTHe_NVPKVB-1q",
+      "type": "Warrior"
+    },
+    "Warrior-NariTar1WahnD-aDj5u": {
+      "hero": "Maloch",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/18/Maloch.jpg/revision/latest/scale-to-width-down/75?cb=20200603193208",
+      "key": "Warrior-NariTar1WahnD-aDj5u",
+      "type": "Warrior"
+    },
+    "Warrior-NariVMO2VIJuB5tLMmo": {
+      "hero": "Omen",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/a/aa/Omen.png/revision/latest/scale-to-width-down/75?cb=20180313162615",
+      "key": "Warrior-NariVMO2VIJuB5tLMmo",
+      "type": "Warrior"
+    },
+    "Warrior-NariWtutlRH3P0NECY-": {
+      "hero": "Qi",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/56/Qi.jpg/revision/latest/scale-to-width-down/75?cb=20200603193430",
+      "key": "Warrior-NariWtutlRH3P0NECY-",
+      "type": "Warrior"
+    },
+    "Warrior-NariYZi8CAKevB3T1yG": {
+      "hero": "Ricktor",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/5/5b/Riktor.jpg/revision/latest/scale-to-width-down/75?cb=20200603193729",
+      "key": "Warrior-NariYZi8CAKevB3T1yG",
+      "type": "Warrior"
+    },
+    "Warrior-Nari_zdcgB4P1xBwbO7": {
+      "hero": "Rourke",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/66/Rourke.jpg/revision/latest/scale-to-width-down/75?cb=20200603154815",
+      "key": "Warrior-Nari_zdcgB4P1xBwbO7",
+      "type": "Warrior"
+    },
+    "Warrior-NaribcDDPNZ9ZyB8JUy": {
+      "hero": "Ryoma",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/06/Ryoma.png/revision/latest/scale-to-width-down/75?cb=20171219072224",
+      "key": "Warrior-NaribcDDPNZ9ZyB8JUy",
+      "type": "Warrior"
+    },
+    "Warrior-NaridAv96IzaCXZnIa7": {
+      "hero": "Skud",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/fd/13400.jpg/revision/latest/scale-to-width-down/75?cb=20230622051609",
+      "key": "Warrior-NaridAv96IzaCXZnIa7",
+      "type": "Warrior"
+    },
+    "Warrior-Narif1ePLDl1qxQnecp": {
+      "hero": "Superman",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/6/64/Superman.png/revision/latest/scale-to-width-down/75?cb=20180314050134",
+      "key": "Warrior-Narif1ePLDl1qxQnecp",
+      "type": "Warrior"
+    },
+    "Warrior-NarigmtLcFjwm7EAYzn": {
+      "hero": "Tachi",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/9/9f/54200.jpg/revision/latest/scale-to-width-down/75?cb=20230622051550",
+      "key": "Warrior-NarigmtLcFjwm7EAYzn",
+      "type": "Warrior"
+    },
+    "Warrior-NariiXERyQeBSeD9wZb": {
+      "hero": "Veres",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/7/74/Veres.jpg/revision/latest/scale-to-width-down/75?cb=20200603192637",
+      "key": "Warrior-NariiXERyQeBSeD9wZb",
+      "type": "Warrior"
+    },
+    "Warrior-NarilXqzjJmI3BqM3fB": {
+      "hero": "Volkath",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/c/c5/Volkath.png/revision/latest/scale-to-width-down/75?cb=20200603192629",
+      "key": "Warrior-NarilXqzjJmI3BqM3fB",
+      "type": "Warrior"
+    },
+    "Warrior-Narj3SfuOO9Zp1DOUIr": {
+      "hero": "Wiro",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/de/19400.jpg/revision/latest/scale-to-width-down/75?cb=20230622114657",
+      "key": "Warrior-Narj3SfuOO9Zp1DOUIr",
+      "type": "Warrior"
+    },
+    "Warrior-NarjDzvcYTO9KINHlqJ": {
+      "hero": "Wonder Woman",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f5/Wonder_Woman.png/revision/latest/scale-to-width-down/75?cb=20171221015942",
+      "key": "Warrior-NarjDzvcYTO9KINHlqJ",
+      "type": "Warrior"
+    },
+    "Warrior-NarjFiyLxwONlqUpso1": {
+      "hero": "Yan",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/3/3e/Yan_Profile.jpeg/revision/latest/scale-to-width-down/75?cb=20220116040344",
+      "key": "Warrior-NarjFiyLxwONlqUpso1",
+      "type": "Warrior"
+    },
+    "Warrior-NarjHT0RhQVgsAwkWS4": {
+      "hero": "Yena",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b6/Yena.jpg/revision/latest/scale-to-width-down/75?cb=20200603192353",
+      "key": "Warrior-NarjHT0RhQVgsAwkWS4",
+      "type": "Warrior"
+    },
+    "Warrior-NarjKJKT1MdyY3UOeJi": {
+      "hero": "Zanis",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/2d/Zanis.jpg/revision/latest/scale-to-width-down/75?cb=20200603192341",
+      "key": "Warrior-NarjKJKT1MdyY3UOeJi",
+      "type": "Warrior"
+    },
+    "Warrior-NarjPZpMYwzD3MB45xN": {
+      "hero": "Zephys",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/1/15/10700-new.jpg/revision/latest/scale-to-width-down/75?cb=20230622052502",
+      "key": "Warrior-NarjPZpMYwzD3MB45xN",
+      "type": "Warrior"
+    },
+    "Warrior-NarjRwisn6PGh1_Me9A": {
+      "hero": "Zuka",
+      "img": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/f3/Zuka.png/revision/latest/scale-to-width-down/75?cb=20200603194430",
+      "key": "Warrior-NarjRwisn6PGh1_Me9A",
+      "type": "Warrior"
+    }
+  }
+}
