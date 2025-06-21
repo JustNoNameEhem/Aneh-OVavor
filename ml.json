@@ -7,5 +7,14 @@
     "key": "Batman-cUuNbtNckr",
     "skin_name": "test",
     "sort": "1"
+  },
+  "Batman-3BFIUnlKmw": {
+    "url": "estsets",
+    "hero": "Batman",
+    "img": "tsets",
+    "img2": "tsets",
+    "key": "Batman-3BFIUnlKmw",
+    "skin_name": "ttest",
+    "sort": "0"
   }
 }
