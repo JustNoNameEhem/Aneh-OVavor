@@ -25,5 +25,14 @@
     "key": "Airi-oZKBnCLTkh",
     "skin_name": "diid",
     "sort": "1"
+  },
+  "Aleister-1750565933208": {
+    "key": "Aleister-1750565933208",
+    "hero": "Aleister",
+    "skin_name": "tset",
+    "download": "test",
+    "img": "test",
+    "img2": "test",
+    "sort": "15"
   }
 }
